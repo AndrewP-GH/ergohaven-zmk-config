@@ -9,21 +9,21 @@
         M0: M0 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kt LGUI &kt LSHFT &kp N3 &kt LGUI &kt LSHFT>;
+            bindings = <&kt LGUI &kt LSHFT &kp NUMBER_3 &kt LGUI &kt LSHFT>;
             label = "M0";
         };
 
         M1: M1 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kt LGUI &kt LSHFT &kp N3 &kt LGUI &kt LSHFT>;
+            bindings = <&kt LGUI &kt LSHFT &kp NUMBER_4 &kt LGUI &kt LSHFT>;
             label = "M1";
         };
 
         M2: M2 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kt LGUI &kt LSHFT &kp NUMBER_5 &kt LGUI &kp LSHFT>;
+            bindings = <&kt LGUI &kt LSHFT &kp NUMBER_5 &kt LGUI &kt LSHFT>;
             label = "M2";
         };
 
