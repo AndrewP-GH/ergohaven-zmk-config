@@ -85,7 +85,7 @@
                                           &trans     &trans           &trans    &kp RGUI  &mo 3         &kp RCTRL
             >;
 
-            display-name = "Navigation";
+            display-name = "Nav";
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
